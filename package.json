@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "gulpfile.js",
+=======
+    "start": "start qulp",
+>>>>>>> 3944b26a22e897141278245ba7a1b0c2a528cfa1
     //"test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YanaVG",
