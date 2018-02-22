@@ -1,0 +1,22 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulpfile.js",
+    //"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YanaVG",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "browser-sync": "^2.23.6",
+    "gulp-concat": "^2.6.1",
+    "gulpdest": "^0.6.5",
+    "uglify": "^0.1.5"
+  },
+  "description": ""
+}
